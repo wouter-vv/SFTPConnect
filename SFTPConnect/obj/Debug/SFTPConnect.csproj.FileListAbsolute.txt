@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Workspaces\BizTalk 2013R2\Dev\SFTPConnection\SFTPConnect\obj\Debug\SFTPConnect.exe
+C:\Users\Administrator\Source\Workspaces\BizTalk 2013R2\Dev\SFTPConnection\SFTPConnect\obj\Debug\SFTPConnect.pdb
+C:\Users\Administrator\Source\Workspaces\BizTalk 2013R2\Dev\SFTPConnection\SFTPConnect\bin\Debug\SFTPConnect.exe.config
+C:\Users\Administrator\Source\Workspaces\BizTalk 2013R2\Dev\SFTPConnection\SFTPConnect\bin\Debug\SFTPConnect.exe
+C:\Users\Administrator\Source\Workspaces\BizTalk 2013R2\Dev\SFTPConnection\SFTPConnect\bin\Debug\SFTPConnect.pdb
+C:\Users\Administrator\Source\Workspaces\BizTalk 2013R2\Dev\SFTPConnection\SFTPConnect\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\Source\Workspaces\BizTalk 2013R2\Dev\SFTPConnection\SFTPConnect\bin\Debug\Renci.SshNet.xml
+C:\Users\Administrator\Source\Workspaces\BizTalk 2013R2\Dev\SFTPConnection\SFTPConnect\obj\Debug\SFTPConnect.csprojResolveAssemblyReference.cache
